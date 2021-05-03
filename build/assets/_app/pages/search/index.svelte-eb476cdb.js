@@ -1,1 +1,0 @@
-import{S as s,i as a,s as e,e as r,c as o,a as t,d as c,f as n,E as d}from"../../chunks/vendor-e2dd978f.js";function u(s){let a;return{c(){a=r("ion-search")},l(s){a=o(s,"ION-SEARCH",{}),t(a).forEach(c)},m(s,e){n(s,a,e)},p:d,i:d,o:d,d(s){s&&c(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,u,e,{})}}
