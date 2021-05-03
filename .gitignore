@@ -1,2 +1,7 @@
-/node_modules
-/src/*
+.DS_Store
+node_modules
+/.svelte
+/build
+/functions
+
+.env
